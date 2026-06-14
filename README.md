@@ -1,6 +1,6 @@
 # Dakota's Kentucky Permit Prep
 
-A mobile-first, ADHD-friendly study app for the Kentucky learner's permit test. Built for Dakota — a 30-year-old adult learner getting his license as a practical life skill.
+A mobile-first, ADHD-friendly study app for the Kentucky learner's permit test.
 
 **Live app:** https://ohsusannamarie.github.io/kentucky-permit-prep/
 
